@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "85816294805",
+    "project_id": "cropsafe-fb15e",
+    "storage_bucket": "cropsafe-fb15e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85816294805:android:44ad98c1afa2d9f6338a9c",
+        "android_client_info": {
+          "package_name": "com.example.crops_safe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85816294805-a8a8e726cb6hv8isfhjtgg0ubjcpb03s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqzgtUDoS1EQL4XAuWqGrKcZ3V4iqmlA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85816294805-a8a8e726cb6hv8isfhjtgg0ubjcpb03s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
